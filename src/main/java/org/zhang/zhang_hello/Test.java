@@ -6,5 +6,6 @@ public class Test {
 		System.out.println(System.currentTimeMillis());
 		System.out.println(System.currentTimeMillis());
 		System.out.println("commit 3");
+		System.out.println("commit 4");
 	}
 }
