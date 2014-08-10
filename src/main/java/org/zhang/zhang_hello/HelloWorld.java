@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("Hello Zhang!");
 		System.out.println("Hello Jie!");
 		System.out.println("Hello Monday!");
+		System.out.println("Hello Tursday!");
 	}
 }
