@@ -20,5 +20,6 @@ public class Test {
 		System.out.println("commit 15");
 		System.out.println("commit 16");
 		System.out.println("commit 17");
+		System.out.println("commit 18");
 	}
 }
